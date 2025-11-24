@@ -26,3 +26,4 @@ Organization Folders: scan a GitHub Organization or Bitbucket Team to discover a
 Pipeline: Regular Pipeline jobs have an option when specifying the pipeline to "Use SCM".
 
 Fundamentally, an organization’s repositories can be viewed as a hierarchy, where each repository may have child elements of branches and pull requests.
+ NEW LINE IS ADDED
