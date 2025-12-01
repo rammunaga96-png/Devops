@@ -27,3 +27,14 @@ Pipeline: Regular Pipeline jobs have an option when specifying the pipeline to "
 
 Fundamentally, an organization’s repositories can be viewed as a hierarchy, where each repository may have child elements of branches and pull requests.
  NEW LINE IS ADDED
+
+
+
+
+ An Operating System (OS) is a software that acts as an interface between computer hardware 
+components and the user.
+ Every computer system must have at least one operating system to run other programs. 
+Applications like Browsers, MS Office, Notepad Games, etc., need some environment to run 
+and perform its tasks
+
+ # new lines added to the file.
